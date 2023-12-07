@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
+
         // Página Principal dos Produtos
         System.out.println("Página Principal dos Produtos");
         System.out.println("Camiseta");
@@ -14,7 +15,9 @@ public class Main {
         System.out.println("Senha: ######");
         System.out.println("CADASTRO FINALIZADO COM SUCESSO ");
 
-
+        System.out.println("Carrinho de Compras:");
+        System.out.println(" 2 pares de meias");
+        System.out.println(" 1 livro.");
 
     }
 }
