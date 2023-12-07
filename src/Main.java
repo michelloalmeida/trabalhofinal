@@ -24,7 +24,11 @@ public class Main {
        );
 
 
+        System.out.println("Carrinho de Compras:");
+        System.out.println(" 2 pares de meias");
+        System.out.println(" 1 livro.");
 
-
+        System.out.println("Digite o cartão de compra");
+        System.out.println("Compra finalizada com sucesso!");
     }
 }
