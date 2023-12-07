@@ -3,10 +3,18 @@
 public class Main {
     public static void main(String[] args) {
 
+        // Página Principal dos Produtos
+        System.out.println("Página Principal dos Produtos");
+        System.out.println("Camiseta");
+        System.out.println("Calça");
+        System.out.println("Meia");
 
         System.out.println("Digite seu nome de usuario:");
         System.out.println("Usuario: igortheo");
         System.out.println("Senha: ######");
         System.out.println("CADASTRO FINALIZADO COM SUCESSO ");
+
+
+
     }
 }
