@@ -3,5 +3,11 @@
 public class Main {
     public static void main(String[] args) {
 
+        // Página Principal dos Produtos
+        System.out.println("Página Principal dos Produtos");
+        System.out.println("Camiseta");
+        System.out.println("Calça");
+        System.out.println("Meia");
+
     }
 }
