@@ -3,5 +3,11 @@
 public class Main {
     public static void main(String[] args) {
 
+
+        System.out.println("Usuario: igortheo");
+        System.out.println("Senha: ######");
+
+        System.out.println("AUTENTICAÇÃO EFETUADA COM SUCESSO ");
+
     }
 }
