@@ -7,7 +7,8 @@ public class Main {
         System.out.println("Usuario: igortheo");
         System.out.println("Senha: ######");
 
-        System.out.println("AUTENTICAÇÃO EFETUADA COM SUCESSO ");
+        System.out.println("AUTENTICAÇÃO EFETUADA COM SUCESSO !");
+
 
     }
 }
